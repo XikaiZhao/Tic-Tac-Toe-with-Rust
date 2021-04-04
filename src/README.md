@@ -1,7 +1,7 @@
 # Tic Tac Toe with Rust
 
 Below is a sample game, computer vs human
-
+  
 
 start game  
 Add player 1, 'c' for computer, 'h' for human  
