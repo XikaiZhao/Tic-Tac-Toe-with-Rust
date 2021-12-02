@@ -1,2 +1,2 @@
-# Tic Tac Toe with Rust
+# Tic Tac Toe in Rust
 
